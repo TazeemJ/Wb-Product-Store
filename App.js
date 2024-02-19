@@ -17,7 +17,7 @@ export default function App() {
     <ApolloProvider client={client}>
       {/* <LoginScreen /> */}
       <View style={{ marginTop: 100 }}>
-        <Text>APP Interface 1</Text>
+        <Text>APP Interface 2</Text>
         {/* <SignUpScreen /> */}
         <LoginScreen />
         {/* <RestPassword/> */}
